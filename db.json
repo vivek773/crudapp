@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "vivek kumar singh",
+      "username": "vivek singh",
+      "email": "vk5636040@gmail.com",
+      "phone": "8433085703",
+      "website": "vkhhd.com",
+      "id": 1
+    },
+    {
+      "name": "kapil singh",
+      "username": "Kapil@123",
+      "email": "kapil@gmail.com",
+      "phone": "88373778887",
+      "website": "kapil.com",
+      "id": 2
+    },
+    {
+      "name": "Anoop ",
+      "username": "Anoop@123",
+      "email": "anoop234@gmail.com",
+      "phone": "88373778887",
+      "website": "Anoop.com",
+      "id": 3
+    },
+    {
+      "name": "muskan",
+      "username": "vivek@123",
+      "email": "vk5636040@gmail.com",
+      "phone": "88373778887",
+      "website": "muskan.com",
+      "id": 4
+    },
+    {
+      "name": "devesh",
+      "username": "Devesh@124",
+      "email": "devesh@gmail.com",
+      "phone": "88373778887",
+      "website": "devesh.com",
+      "id": 5
+    },
+    {
+      "name": "Aditya ",
+      "username": "Aditya@123",
+      "email": "aditya@gmail.com",
+      "phone": "9876543745",
+      "website": "aditya.com",
+      "id": 6
+    },
+    {
+      "name": "Ravi singh",
+      "username": "Ravi@534",
+      "email": "ravi@gmail.com",
+      "phone": "76353324556",
+      "website": "ravi.com",
+      "id": 7
+    },
+    {
+      "name": "Himanshu",
+      "username": "Himanshu@7763",
+      "email": "himanshu@gmail.com",
+      "phone": "8773666678",
+      "website": "himanshu.com",
+      "id": 8
+    }
+  ]
+}
