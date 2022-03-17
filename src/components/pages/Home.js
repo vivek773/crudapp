@@ -39,7 +39,7 @@ const Home = () => {
                 <th scope="row">{index + 1}</th>
                 <td>{user.name}</td>
                 <td>{user.username}</td>
-                <td>{user.email}</td>
+                <td>{user}</td>
                 <td>
                   <Link class="btn btn-primary mr-2 border border-dark rounded-circle " to={`/users/${user.id}`}>
                     View
